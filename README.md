@@ -1,2 +1,2 @@
 # JavaProject
-This is my Java Class project 
+This is my initia Test project using Java, JSF, JDBC and MySQL

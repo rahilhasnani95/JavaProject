@@ -1,2 +1,2 @@
 # JavaProject
-This is my initia Test project using Java, JSF, JDBC and MySQL
+This is my initial Test project using Java, JSF, JDBC and MySQL
